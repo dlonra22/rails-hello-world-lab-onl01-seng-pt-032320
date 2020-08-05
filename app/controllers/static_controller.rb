@@ -1,6 +1,6 @@
 class StaticController <ApplicationController
   
-  get "hello_world"
+  get hello_world
   end
   
 end
